@@ -7,7 +7,8 @@
             "staff": true,
             "ban": true,
             "unban": true,
-            "timeout": true
+            "timeout": true,
+            "clear-infraction": true
         }
     ],
     "activity": "I am a bot",
